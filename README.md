@@ -1,1 +1,1 @@
-# TrackWise
+# TrackWise - AI Expense Tracker
