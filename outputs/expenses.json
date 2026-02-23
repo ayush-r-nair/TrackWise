@@ -1,0 +1,1581 @@
+[
+  {
+    "id": "20251202_214237",
+    "image_file": "0.jpg",
+    "merchant": "SUPERCENTER OPEN 24 HOURS",
+    "date": null,
+    "time": null,
+    "total": 5.11,
+    "subtotal": 5.11,
+    "tax": null,
+    "items": [
+      {
+        "amount": 0.2,
+        "category": null,
+        "description": "lb @ 1 lb /0.49",
+        "flags": " N",
+        "qty": 0.41,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 5.48,
+        "category": null,
+        "description": "FRAP001200010451 F",
+        "flags": " N",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 0.57,
+        "category": null,
+        "description": "DISCOUNT GIVEN",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-02T21:42:37.185624"
+  },
+  {
+    "id": "20251202_214241",
+    "image_file": "1.jpg",
+    "merchant": "TRADER JOE'S",
+    "date": "2014-06-28",
+    "time": "12:34",
+    "total": 38.68,
+    "subtotal": 38.68,
+    "tax": 1.38,
+    "items": [
+      {
+        "amount": 1.29,
+        "category": null,
+        "description": "R-CARROTS SHREDDED 10 OZ",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 1.99,
+        "category": null,
+        "description": "R-CUCUMBERS PERSIAN 1 LB",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 1.59,
+        "category": null,
+        "description": "TOMATOES CRUSHED NO SALT",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 1.59,
+        "category": null,
+        "description": "TOMATOES WHOLE NO SALT W/BASIL",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.69,
+        "category": null,
+        "description": "ORGANIC OLD FASHIONED OATMEAL",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.49,
+        "category": null,
+        "description": "MINI-PEARL TOMATOES",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 3.99,
+        "category": null,
+        "description": "PKG SHREDDED MOZZARELLA LITE T",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 3.79,
+        "category": null,
+        "description": "EGGS 1 DOZ ORGANIC BROWN",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 0.89,
+        "category": null,
+        "description": "BEANS GARBANZO",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.99,
+        "category": null,
+        "description": "SPROUTED CA STYLE",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 3.99,
+        "category": null,
+        "description": "A-AVOCADOS HASS BAG 4CT",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.99,
+        "category": null,
+        "description": "A-APPLE BAG JAZZ 2 LB",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 0.99,
+        "category": null,
+        "description": "A-PEPPER BELL EACH XL RED",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 0.98,
+        "category": null,
+        "description": "GROCERY NON TAXABLE",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 0.87,
+        "category": null,
+        "description": "BANANAS ORGANIC",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.49,
+        "category": null,
+        "description": "CREAMY SALTED PEANUT BUTTER",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 1.69,
+        "category": null,
+        "description": "WHL WHT PITA BREAD",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-02T21:42:41.910705"
+  },
+  {
+    "id": "20251202_214246",
+    "image_file": "10.jpg",
+    "merchant": "SPAR",
+    "date": "2021-02-23",
+    "time": "16:17",
+    "total": 338.16,
+    "subtotal": null,
+    "tax": null,
+    "items": [
+      {
+        "amount": 17.99,
+        "category": null,
+        "description": "LAZENBY WORCESTER SAUCE 125ML",
+        "flags": " A",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 16.99,
+        "category": null,
+        "description": "MILKY BAR CHOC80GR",
+        "flags": " A",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 33.99,
+        "category": null,
+        "description": "SMOKED VIENNAS500GR",
+        "flags": " A",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 82.99,
+        "category": null,
+        "description": "PEALED PEACHES400G",
+        "flags": " A",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 20.99,
+        "category": null,
+        "description": "NESTLE AERO85GR",
+        "flags": " A",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 16.99,
+        "category": null,
+        "description": "CADBURY DAIRY MI80GR",
+        "flags": " A",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 27.99,
+        "category": null,
+        "description": "BLACK CAT SMOOTH270GR",
+        "flags": " A",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 0.75,
+        "category": null,
+        "description": "CARRIER BAG 24L1'S",
+        "flags": " A",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-02T21:42:46.228403"
+  },
+  {
+    "id": "20251202_214250",
+    "image_file": "11.jpg",
+    "merchant": "FOODS MARKET",
+    "date": null,
+    "time": null,
+    "total": 45.44,
+    "subtotal": null,
+    "tax": null,
+    "items": [
+      {
+        "amount": 6.99,
+        "category": null,
+        "description": "PL TORTILLA S",
+        "flags": " B",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 3.69,
+        "category": null,
+        "description": "CAGE FREE ALL WHIT",
+        "flags": " B",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 1.29,
+        "category": null,
+        "description": "BLACK BEANS",
+        "flags": " B",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.99,
+        "category": null,
+        "description": "Frozen Mangoes 160",
+        "flags": " B",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.99,
+        "category": null,
+        "description": "Whole Strawberries",
+        "flags": " B",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 3.49,
+        "category": null,
+        "description": "OG LF COTTAGE CHEE",
+        "flags": " B",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 8.99,
+        "category": null,
+        "description": "MAHI MAHI FILLETS",
+        "flags": " B",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": -2.0,
+        "category": null,
+        "description": "VC$2 off (1) WC Fill",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.69,
+        "category": null,
+        "description": "California Harvest",
+        "flags": " B",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.15,
+        "category": null,
+        "description": "WTPLUMS BLACK CV",
+        "flags": " B",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 3.99,
+        "category": null,
+        "description": "NHP SLICED OVEN RO",
+        "flags": " B",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 3.99,
+        "category": null,
+        "description": "NHP SLICED HICKORY",
+        "flags": " B",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 3.26,
+        "category": null,
+        "description": "WTGALA APPLES OG",
+        "flags": " B",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 45.44,
+        "category": null,
+        "description": "TAX.93 BAL",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-02T21:42:50.384334"
+  },
+  {
+    "id": "20251202_214254",
+    "image_file": "12.jpg",
+    "merchant": "WE SELL FOR LESS ALWAYS",
+    "date": null,
+    "time": null,
+    "total": 18.75,
+    "subtotal": 17.45,
+    "tax": 0.76,
+    "items": [
+      {
+        "amount": 6.63,
+        "category": null,
+        "description": "SW FIGURES065356920144",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 0.96,
+        "category": null,
+        "description": "TOOTHBRUSH003500055500",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-02T21:42:54.271233"
+  },
+  {
+    "id": "20251202_214820",
+    "image_file": "13.jpg",
+    "merchant": "Walmart Save money. Live better.",
+    "date": "2017-03-11",
+    "time": null,
+    "total": 50.0,
+    "subtotal": 50.0,
+    "tax": null,
+    "items": null,
+    "scanned_at": "2025-12-02T21:48:20.317936"
+  },
+  {
+    "id": "20251202_214835",
+    "image_file": "14.jpg",
+    "merchant": "Save money. Live better. ( 937) 644-2800",
+    "date": "2017-05-04",
+    "time": null,
+    "total": 26.6,
+    "subtotal": 25.35,
+    "tax": 1.25,
+    "items": [
+      {
+        "amount": 3.88,
+        "category": null,
+        "description": "EQUATE LINER 068113186503",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 7.48,
+        "category": null,
+        "description": "VFUS ENG POM 005100024543 F",
+        "flags": " N",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 5.97,
+        "category": null,
+        "description": "DAWN ORIG 003700011045",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 1.12,
+        "category": null,
+        "description": "50YD PKGTAPE 007535307841",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 1.12,
+        "category": null,
+        "description": "50YD PKGTAPE 007535307841",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 5.78,
+        "category": null,
+        "description": "LINT ROLLER2 005114123488",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-02T21:48:35.582087"
+  },
+  {
+    "id": "20251202_214838",
+    "image_file": "15.jpg",
+    "merchant": "Save money. Live better. 714) 799-0020",
+    "date": "2016-07-22",
+    "time": "20:53",
+    "total": 12.58,
+    "subtotal": 12.58,
+    "tax": null,
+    "items": [
+      {
+        "amount": 12.58,
+        "category": null,
+        "description": "DIABETES068113131172H",
+        "flags": " N",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-02T21:48:38.433592"
+  },
+  {
+    "id": "20251202_214841",
+    "image_file": "16.jpg",
+    "merchant": "Save money. Live better. ( 701) 223 -3066",
+    "date": "2017-11-13",
+    "time": null,
+    "total": 23.19,
+    "subtotal": 21.74,
+    "tax": 0.3,
+    "items": [
+      {
+        "amount": 3.98,
+        "category": null,
+        "description": "WING PLATE 020108870398",
+        "flags": " P",
+        "qty": 6,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 4.88,
+        "category": null,
+        "description": "ASST 27 063099656595",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 12.88,
+        "category": null,
+        "description": "CUTIE CAR063099656644",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-02T21:48:41.366678"
+  },
+  {
+    "id": "20251202_214844",
+    "image_file": "17.jpg",
+    "merchant": "Save money. Live better. ( 970) 259-8755",
+    "date": "2017-01-15",
+    "time": "14:26",
+    "total": 38.68,
+    "subtotal": 36.35,
+    "tax": 0.12,
+    "items": [
+      {
+        "amount": 0.95,
+        "category": null,
+        "description": "lb @ 1 lb /0.54",
+        "flags": " R",
+        "qty": 1.75,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.0,
+        "category": null,
+        "description": "OS CRAN POM 003120027015 F",
+        "flags": " R",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 0.96,
+        "category": null,
+        "description": "STRWBRY CC076471782200 F",
+        "flags": " Y",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.98,
+        "category": null,
+        "description": "CAMPARI TOM 073447501213 I",
+        "flags": " R",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 3.78,
+        "category": null,
+        "description": "KFT SINGLES 002100061526 F",
+        "flags": " Y",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 3.98,
+        "category": null,
+        "description": "44500982114 004450098211 F",
+        "flags": " Y",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 3.43,
+        "category": null,
+        "description": "HARD SALAMI020533960343 F",
+        "flags": " Y",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 1.76,
+        "category": null,
+        "description": "AT 1 FOR 0.44",
+        "flags": " R",
+        "qty": 4,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 1.0,
+        "category": null,
+        "description": "PILLS WHITE 068113113619 F",
+        "flags": " Y",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.97,
+        "category": null,
+        "description": "SH NYLON COL 007417024836",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 1.67,
+        "category": null,
+        "description": "HAND CLEANER 004125100005",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 8.87,
+        "category": null,
+        "description": "INJECTR CLNR 004980710003",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-02T21:48:44.689812"
+  },
+  {
+    "id": "20251202_221701",
+    "image_file": "18.jpg",
+    "merchant": "Walmart 863-318-0752 Mgr MARK",
+    "date": "2021-10-31",
+    "time": "10:08",
+    "total": 86.35,
+    "subtotal": 82.75,
+    "tax": 3.6,
+    "items": [
+      {
+        "amount": 0.98,
+        "category": null,
+        "description": "GV WATER",
+        "flags": " N",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 0.98,
+        "category": null,
+        "description": "GREAT VALUE",
+        "flags": " N",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.84,
+        "category": null,
+        "description": "GREAT VALUE",
+        "flags": " N",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.84,
+        "category": null,
+        "description": "GAIN LFE",
+        "flags": " N",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 6.97,
+        "category": null,
+        "description": "003700077007",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 4.94,
+        "category": null,
+        "description": "00003700076954",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 7.82,
+        "category": null,
+        "description": "GV VEG OIL007874221000 F",
+        "flags": " N",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 3.78,
+        "category": null,
+        "description": "SNICKER FS004000050533 F",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 4.76,
+        "category": null,
+        "description": "GDBR FS 6PK 003400029305 F",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 13.24,
+        "category": null,
+        "description": "MIXED CHOC004000047587 F",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 1.78,
+        "category": null,
+        "description": "CHERRIES 004326880002 F",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 1.97,
+        "category": null,
+        "description": "GAIN",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 9.97,
+        "category": null,
+        "description": "HY RSTLEG PM 035497333521H",
+        "flags": " N",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 10.97,
+        "category": null,
+        "description": "BATTERIES",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.97,
+        "category": null,
+        "description": "GV 2OZ MINI 007874219999",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-02T22:17:01.978084"
+  },
+  {
+    "id": "20251203_013436",
+    "image_file": "19.jpg",
+    "merchant": "to 7 863-676-9425 EURIEL",
+    "date": "2021-10-16",
+    "time": null,
+    "total": 35.05,
+    "subtotal": 34.0,
+    "tax": 1.05,
+    "items": [
+      {
+        "amount": 14.97,
+        "category": null,
+        "description": "GRILL COVER 471288396027",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 12.94,
+        "category": null,
+        "description": "FIBER CHOICE 036926600094",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 3.61,
+        "category": null,
+        "description": "lb 1 lb /1.44",
+        "flags": " N",
+        "qty": 2.51,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-03T01:34:36.999940"
+  },
+  {
+    "id": "20251203_013439",
+    "image_file": "2.jpg",
+    "merchant": "Walmart.com",
+    "date": "2020-10-18",
+    "time": null,
+    "total": 49.9,
+    "subtotal": 46.44,
+    "tax": 3.46,
+    "items": [
+      {
+        "amount": 6.74,
+        "category": null,
+        "description": "OT 200Z TUM 081236803115",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 24.97,
+        "category": null,
+        "description": "M ATHLETICS 019104567781",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 12.97,
+        "category": null,
+        "description": "DEXAS 15X20 008429710921",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-03T01:34:39.867665"
+  },
+  {
+    "id": "20251203_013442",
+    "image_file": "3.jpg",
+    "merchant": "Walmart 317-851-1102 Mar JAMIE BROOKSHIRE",
+    "date": "2019-04-27",
+    "time": "12:59",
+    "total": 144.02,
+    "subtotal": 139.44,
+    "tax": 4.58,
+    "items": [
+      {
+        "amount": 4.98,
+        "category": null,
+        "description": "SNACK BARS 002190848816",
+        "flags": " T",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 5.88,
+        "category": null,
+        "description": "HRI CL CHS 003120506000 F",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 5.88,
+        "category": null,
+        "description": "HRI 12 USG 003120535000 F",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 4.88,
+        "category": null,
+        "description": "EARBUDS068113100946",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 5.94,
+        "category": null,
+        "description": "DV RSE OIL M 001111101220",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 6.47,
+        "category": null,
+        "description": "APPLE 3 BAG 084747300184 F",
+        "flags": " N",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 4.42,
+        "category": null,
+        "description": "STOK LT SWT 004127102774 F",
+        "flags": " T",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.98,
+        "category": null,
+        "description": "AVO VERDE061611206143 F",
+        "flags": " N",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 6.58,
+        "category": null,
+        "description": "BTS DRY BLON 501072452746",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 32.0,
+        "category": null,
+        "description": "GALE000000000003K",
+        "flags": " T",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.74,
+        "category": null,
+        "description": "TR HS FRM 4 002240062190",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.98,
+        "category": null,
+        "description": "GV SLIDERS007874201525",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 0.97,
+        "category": null,
+        "description": "ACCESSORY007515161216",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.78,
+        "category": null,
+        "description": "RITZ004400088210 F",
+        "flags": " N",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 2.5,
+        "category": null,
+        "description": "RUFFLES002840020942 F",
+        "flags": " N",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 1.28,
+        "category": null,
+        "description": "GV HNY GRMS 007874207253 F",
+        "flags": " N",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-03T01:34:42.774694"
+  },
+  {
+    "id": "20251203_013600",
+    "image_file": "4.jpg",
+    "merchant": "Save money. Live better. 712) 366 3326",
+    "date": "2015-12-08",
+    "time": "12:39",
+    "total": 7.43,
+    "subtotal": 6.94,
+    "tax": 0.49,
+    "items": [
+      {
+        "amount": 6.94,
+        "category": null,
+        "description": "SW HRO FGHTR 063050940732",
+        "flags": " T",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-03T01:36:00.921332"
+  },
+  {
+    "id": "20251203_013617",
+    "image_file": "5.jpg",
+    "merchant": "MARKET Sunnyvale SVL 408-419-1290",
+    "date": "2020-09-15",
+    "time": null,
+    "total": 28.28,
+    "subtotal": 28.28,
+    "tax": null,
+    "items": [
+      {
+        "amount": 1.29,
+        "category": null,
+        "description": "KTTL SEA SALT POT CHP",
+        "flags": " F",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 6.99,
+        "category": null,
+        "description": "BRAIDED BRIOCHE",
+        "flags": " F",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 20.0,
+        "category": null,
+        "description": "ea",
+        "flags": " F",
+        "qty": 2,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": 10.0
+      }
+    ],
+    "scanned_at": "2025-12-03T01:36:17.133458"
+  },
+  {
+    "id": "20251203_014042",
+    "image_file": "6.JPG",
+    "merchant": "MOMI & TOY'S",
+    "date": "2015-01-26",
+    "time": "16:13",
+    "total": null,
+    "subtotal": 175000,
+    "tax": null,
+    "items": [
+      {
+        "amount": 74.0,
+        "category": null,
+        "description": "Ham Cheese",
+        "flags": "",
+        "qty": 2,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 16000,
+        "category": null,
+        "description": "Ice Java Tea",
+        "flags": "",
+        "qty": 1,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 13000,
+        "category": null,
+        "description": "Mineral Water",
+        "flags": "",
+        "qty": 1,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 72000,
+        "category": null,
+        "description": "Black & White",
+        "flags": "",
+        "qty": 1,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-03T01:40:42.431916"
+  },
+  {
+    "id": "20251203_014044",
+    "image_file": "7.jpg",
+    "merchant": "Save money. Live better. ( 701) 223 -3066",
+    "date": "2017-11-13",
+    "time": null,
+    "total": 23.19,
+    "subtotal": 21.74,
+    "tax": 0.3,
+    "items": [
+      {
+        "amount": 3.98,
+        "category": null,
+        "description": "WING PLATE 020108870398",
+        "flags": " P",
+        "qty": 6,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 4.88,
+        "category": null,
+        "description": "ASST 27 063099656595",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 12.88,
+        "category": null,
+        "description": "CUTIE CAR063099656644",
+        "flags": " X",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-03T01:40:44.967407"
+  },
+  {
+    "id": "20251203_174942",
+    "image_file": "8.jpg",
+    "merchant": "Unknown",
+    "date": null,
+    "time": null,
+    "total": null,
+    "subtotal": null,
+    "tax": null,
+    "items": [],
+    "scanned_at": "2025-12-03T17:49:42.989640"
+  },
+  {
+    "id": "20251203_174942",
+    "image_file": "9.jpg",
+    "merchant": "Unknown",
+    "date": null,
+    "time": null,
+    "total": null,
+    "subtotal": null,
+    "tax": null,
+    "items": [],
+    "scanned_at": "2025-12-03T17:49:42.989957"
+  },
+  {
+    "id": "20251204_113318",
+    "image_file": "20.png",
+    "merchant": "LIGHTROOM GALLERY SDN BHD",
+    "date": "2017-11-20",
+    "time": null,
+    "total": 278.8,
+    "subtotal": 263.02,
+    "tax": null,
+    "items": [
+      {
+        "amount": 90.57,
+        "category": null,
+        "description": "RM 45. 29 UNI ( 5. 43)= RM",
+        "flags": "",
+        "qty": 2,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 155.66,
+        "category": null,
+        "description": "RM 155.66 UNI ( 9 34)= RM",
+        "flags": "",
+        "qty": 1,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 16.79,
+        "category": null,
+        "description": "RM 16.99 UNI ( 1.01)= RM",
+        "flags": "",
+        "qty": 1,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-04T11:33:18.085398"
+  },
+  {
+    "id": "20251204_115720",
+    "image_file": "014.jpg",
+    "merchant": "UROKO JAPANESE CUISINE SDN BHD",
+    "date": "2018-03-20",
+    "time": "18:41",
+    "total": 53.0,
+    "subtotal": null,
+    "tax": 3.0,
+    "items": [
+      {
+        "amount": 24.0,
+        "category": null,
+        "description": "KO NABE INANIWA",
+        "flags": " SR",
+        "qty": 1,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 1.0,
+        "category": null,
+        "description": "GREEN TEA",
+        "flags": " SR",
+        "qty": 1,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": 1.0
+      },
+      {
+        "amount": 15.0,
+        "category": null,
+        "description": "GYOZA",
+        "flags": " SR",
+        "qty": 1,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": 15.0
+      },
+      {
+        "amount": 6.0,
+        "category": null,
+        "description": "GARLIC CHAHAN @[ T",
+        "flags": " SR",
+        "qty": 1,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 46.0,
+        "category": null,
+        "description": "Total:",
+        "flags": "",
+        "qty": 4,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      },
+      {
+        "amount": 4.0,
+        "category": null,
+        "description": "Service Chg 10.00%:",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-04T11:57:20.114999"
+  },
+  {
+    "id": "20251204_120446",
+    "image_file": "118.jpg",
+    "merchant": "MR. D.1.Y.(M) SDN BHD",
+    "date": "2018-03-18",
+    "time": "12:09",
+    "total": 6.6,
+    "subtotal": null,
+    "tax": 0.37,
+    "items": [
+      {
+        "amount": 6.6,
+        "category": null,
+        "description": "9690059",
+        "flags": "",
+        "qty": 2,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": 3.3
+      }
+    ],
+    "scanned_at": "2025-12-04T12:04:46.702232"
+  },
+  {
+    "id": "20251204_121240",
+    "image_file": "112.jpg",
+    "merchant": "PANA JAYA ENTERPRISE",
+    "date": "2018-03-21",
+    "time": "10:37",
+    "total": 105.0,
+    "subtotal": null,
+    "tax": 5.94,
+    "items": [
+      {
+        "amount": 35.0,
+        "category": null,
+        "description": "9928 28 IN BASIN",
+        "flags": " SR",
+        "qty": 1,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": 35.0
+      },
+      {
+        "amount": 70.0,
+        "category": null,
+        "description": "TG WFD32 PP BOWL CTN",
+        "flags": " SA",
+        "qty": 1,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": 70.0
+      },
+      {
+        "amount": 99.06,
+        "category": null,
+        "description": "Total (Excluding GST):",
+        "flags": "",
+        "qty": null,
+        "remarks": null,
+        "tags": null,
+        "unitPrice": null
+      }
+    ],
+    "scanned_at": "2025-12-04T12:12:40.456894"
+  }
+]

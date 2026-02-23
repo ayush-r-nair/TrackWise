@@ -1,0 +1,139 @@
+{
+  "categorization": {
+    "0.jpg": {
+      "category": "Groceries",
+      "confidence": 80,
+      "reasoning": "common grocery store name"
+    },
+    "1.jpg": {
+      "category": "Food & Drinks",
+      "confidence": 90,
+      "reasoning": "known supermarket chain"
+    },
+    "10.jpg": {
+      "category": "Groceries",
+      "confidence": 85,
+      "reasoning": "common grocery store name"
+    },
+    "11.jpg": {
+      "category": "Food & Drinks",
+      "confidence": 75,
+      "reasoning": "likely food market"
+    },
+    "12.jpg": {
+      "category": "Groceries",
+      "confidence": 70,
+      "reasoning": "small grocery store name"
+    },
+    "13.jpg": {
+      "category": "Food & Drinks",
+      "confidence": 95,
+      "reasoning": "well-known supermarket chain"
+    },
+    "14.jpg": {
+      "category": "Other",
+      "confidence": 80,
+      "reasoning": "store name with phone number, likely not a grocery store"
+    },
+    "15.jpg": {
+      "category": "Groceries",
+      "confidence": 60,
+      "reasoning": "similar to other Walmart receipts"
+    },
+    "16.jpg": {
+      "category": "Other",
+      "confidence": 80,
+      "reasoning": "store name with phone number, likely not a grocery store"
+    },
+    "17.jpg": {
+      "category": "Food & Drinks",
+      "confidence": 95,
+      "reasoning": "well-known supermarket chain"
+    },
+    "18.jpg": {
+      "category": "Other",
+      "confidence": 90,
+      "reasoning": "store name with phone number, likely not a grocery store"
+    },
+    "19.jpg": {
+      "category": "Groceries",
+      "confidence": 70,
+      "reasoning": "similar to other Walmart receipts"
+    },
+    "2.jpg": {
+      "category": "Other",
+      "confidence": 95,
+      "reasoning": "online store name, likely not a grocery store"
+    },
+    "3.jpg": {
+      "category": "Groceries",
+      "confidence": 85,
+      "reasoning": "well-known supermarket chain"
+    },
+    "4.jpg": {
+      "category": "Other",
+      "confidence": 70,
+      "reasoning": "store name with phone number, likely not a grocery store"
+    },
+    "5.jpg": {
+      "category": "Groceries",
+      "confidence": 80,
+      "reasoning": "similar to other market receipts"
+    },
+    "6.JPG": {
+      "category": "Other",
+      "confidence": 0,
+      "reasoning": "no price listed, unable to categorize"
+    },
+    "7.jpg": {
+      "category": "Other",
+      "confidence": 80,
+      "reasoning": "store name with phone number, likely not a grocery store"
+    },
+    "8.jpg": {
+      "category": "Unknown",
+      "confidence": 0,
+      "reasoning": "no recognizable text, unable to categorize"
+    },
+    "9.jpg": {
+      "category": "Unknown",
+      "confidence": 0,
+      "reasoning": "no recognizable text, unable to categorize"
+    },
+    "20.png": {
+      "category": "Other",
+      "confidence": 95,
+      "reasoning": "store name with logo, likely not a grocery store"
+    },
+    "014.jpg": {
+      "category": "Food & Drinks",
+      "confidence": 90,
+      "reasoning": "Restaurant receipt with food items listed"
+    },
+    "118.jpg": {
+      "category": "Food & Drinks",
+      "confidence": 90,
+      "reasoning": "restaurant invoice indicates food purchase"
+    },
+    "112.jpg": {
+      "category": "Household Supplies",
+      "confidence": 85,
+      "reasoning": "invoice from a business supply company suggests household supplies"
+    }
+  },
+  "analysis": {
+    "total_spent": 1414.81,
+    "insights": [],
+    "anomalies": []
+  },
+  "advice": {
+    "budget_status": "over budget",
+    "tips": [
+      "Track every single transaction in a separate spreadsheet to get a clear picture of where your money is going.",
+      "Identify areas where you can cut back on unnecessary expenses, such as subscription services or dining out too frequently.",
+      "Consider implementing the 50/30/20 rule: allocate 50% of your income towards necessary expenses, 30% towards discretionary spending, and 20% towards saving and debt repayment."
+    ],
+    "quick_win": "Implement a 'stop doing' list to eliminate one unnecessary expense or subscription service each month.",
+    "positive": "You're taking the first step towards gaining control over your finances! Keep up the good work and remember that small changes add up over time."
+  }
+}

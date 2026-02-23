@@ -1,0 +1,555 @@
+{
+  "0.jpg": {
+    "receipt_category": "Groceries",
+    "item_categories": [
+      {
+        "description": "lb",
+        "category": "Meat"
+      },
+      {
+        "description": "FRAP001200010451 F",
+        "category": "Beverage"
+      },
+      {
+        "description": "DISCOUNT GIVEN",
+        "category": "Discount"
+      }
+    ]
+  },
+  "1.jpg": {
+    "receipt_category": "Groceries",
+    "item_categories": [
+      {
+        "description": "R-CARROTS SHREDDED 10 OZ",
+        "category": "Fresh produce"
+      },
+      {
+        "description": "R-CUCUMBERS PERSIAN 1 LB",
+        "category": "Fresh produce"
+      },
+      {
+        "description": "TOMATOES CRUSHED NO SALT",
+        "category": "Canned goods"
+      },
+      {
+        "description": "TOMATOES WHOLE NO SALT W/BASIL",
+        "category": "Canned goods"
+      },
+      {
+        "description": "ORGANIC OLD FASHIONED OATMEAL",
+        "category": "Grains"
+      },
+      {
+        "description": "MINI-PEARL TOMATOES",
+        "category": "Fresh produce"
+      },
+      {
+        "description": "PKG SHREDDED MOZZARELLA LITE T",
+        "category": "Dairy"
+      },
+      {
+        "description": "EGGS 1 DOZ ORGANIC BROWN",
+        "category": "Eggs & dairy"
+      },
+      {
+        "description": "BEANS GARBANZO",
+        "category": "Canned goods"
+      },
+      {
+        "description": "SPROUTED CA STYLE",
+        "category": "Fresh produce"
+      },
+      {
+        "description": "A-AVOCADOS HASS BAG 4CT",
+        "category": "Fresh produce"
+      },
+      {
+        "description": "A-APPLE BAG JAZZ 2 LB",
+        "category": "Fresh fruit"
+      },
+      {
+        "description": "A-PEPPER BELL EACH XL RED",
+        "category": "Fresh produce"
+      },
+      {
+        "description": "GROCERY NON TAXABLE",
+        "category": "Miscellaneous"
+      },
+      {
+        "description": "BANANAS ORGANIC",
+        "category": "Fresh fruit"
+      },
+      {
+        "description": "CREAMY SALTED PEANUT BUTTER",
+        "category": "Pantry"
+      },
+      {
+        "description": "WHL WHT PITA BREAD",
+        "category": "Bakery"
+      }
+    ]
+  },
+  "10.jpg": {
+    "receipt_category": "Groceries",
+    "item_categories": [
+      {
+        "description": "LAZENBY WORCESTER SAUCE 125ML",
+        "category": "Condiment"
+      },
+      {
+        "description": "MILKY BAR CHOC80GR",
+        "category": "Snack"
+      },
+      {
+        "description": "SMOKED VIENNAS500GR",
+        "category": "Meat"
+      },
+      {
+        "description": "PEALED PEACHES400G",
+        "category": "Fresh produce"
+      },
+      {
+        "description": "NESTLE AERO85GR",
+        "category": "Chocolate"
+      },
+      {
+        "description": "CADBURY DAIRY MI80GR",
+        "category": "Dairy"
+      },
+      {
+        "description": "BLACK CAT SMOOTH270GR",
+        "category": "Snack"
+      },
+      {
+        "description": "CARRIER BAG 24L1'S",
+        "category": "Household Supplies"
+      }
+    ]
+  },
+  "11.jpg": {
+    "receipt_category": "Groceries",
+    "item_categories": [
+      {
+        "description": "PL TORTILLA S",
+        "category": "Uncategorized"
+      },
+      {
+        "description": "CAGE FREE ALL WHIT",
+        "category": "Uncategorized"
+      },
+      {
+        "description": "BLACK BEANS",
+        "category": "Uncategorized"
+      },
+      {
+        "description": "Frozen Mangoes 160",
+        "category": "Uncategorized"
+      },
+      {
+        "description": "Whole Strawberries",
+        "category": "Uncategorized"
+      },
+      {
+        "description": "OG LF COTTAGE CHEE",
+        "category": "Uncategorized"
+      },
+      {
+        "description": "MAHI MAHI FILLETS",
+        "category": "Uncategorized"
+      },
+      {
+        "description": "VC$2 off (1) WC Fill",
+        "category": "Uncategorized"
+      },
+      {
+        "description": "California Harvest",
+        "category": "Uncategorized"
+      },
+      {
+        "description": "WTPLUMS BLACK CV",
+        "category": "Uncategorized"
+      },
+      {
+        "description": "NHP SLICED OVEN RO",
+        "category": "Uncategorized"
+      },
+      {
+        "description": "NHP SLICED HICKORY",
+        "category": "Uncategorized"
+      },
+      {
+        "description": "WTGALA APPLES OG",
+        "category": "Uncategorized"
+      },
+      {
+        "description": "TAX.93 BAL",
+        "category": "Uncategorized"
+      }
+    ]
+  },
+  "12.jpg": {
+    "receipt_category": "Toiletries & Personal Care",
+    "item_categories": [
+      {
+        "description": "SW FIGURES065356920144",
+        "category": "Personal hygiene"
+      },
+      {
+        "description": "TOOTHBRUSH003500055500",
+        "category": "Oral care"
+      }
+    ]
+  },
+  "13.jpg": {
+    "receipt_category": "Groceries",
+    "item_categories": []
+  },
+  "14.jpg": {
+    "receipt_category": "Household Supplies",
+    "item_categories": [
+      {
+        "description": "EQUATE LINER 068113186503",
+        "category": "Laundry detergent"
+      },
+      {
+        "description": "VFUS ENG POM 005100024543 F",
+        "category": "Cleaning solution"
+      },
+      {
+        "description": "DAWN ORIG 003700011045",
+        "category": "Dish soap"
+      },
+      {
+        "description": "50YD PKGTAPE 007535307841",
+        "category": "Packaging tape"
+      },
+      {
+        "description": "50YD PKGTAPE 007535307841",
+        "category": "Packaging tape"
+      },
+      {
+        "description": "LINT ROLLER2 005114123488",
+        "category": "Lint roller"
+      }
+    ]
+  },
+  "15.jpg": {
+    "receipt_category": "Medical & Pharmacy",
+    "item_categories": [
+      {
+        "description": "DIABETES068113131172H",
+        "category": "Medication"
+      }
+    ]
+  },
+  "16.jpg": {
+    "receipt_category": "Groceries",
+    "item_categories": [
+      {
+        "description": "WING PLATE 020108870398",
+        "category": "Meat"
+      },
+      {
+        "description": "ASST 27 063099656595",
+        "category": "Snack"
+      },
+      {
+        "description": "CUTIE CAR063099656644",
+        "category": "Bakery"
+      }
+    ]
+  },
+  "17.jpg": {
+    "receipt_category": "Groceries",
+    "item_categories": [
+      {
+        "description": "lb",
+        "category": "Meat"
+      },
+      {
+        "description": "OS CRAN POM 003120027015 F",
+        "category": "Canned goods"
+      },
+      {
+        "description": "STRWBRY CC076471782200 F",
+        "category": "Bakery"
+      },
+      {
+        "description": "CAMPARI TOM 073447501213 I",
+        "category": "Wine & liquor"
+      },
+      {
+        "description": "KFT SINGLES 002100061526 F",
+        "category": "Snack"
+      },
+      {
+        "description": "44500982114 004450098211 F",
+        "category": "Bread"
+      },
+      {
+        "description": "HARD SALAMI020533960343 F",
+        "category": "Meat"
+      },
+      {
+        "description": "AT 1 FOR 0.44",
+        "category": "Household supplies"
+      },
+      {
+        "description": "PILLS WHITE 068113113619 F",
+        "category": "Medication"
+      },
+      {
+        "description": "SH NYLON COL 007417024836",
+        "category": "Household supplies"
+      },
+      {
+        "description": "HAND CLEANER 004125100005",
+        "category": "Household cleaning"
+      },
+      {
+        "description": "INJECTR CLNR 004980710003",
+        "category": "Cleaning supplies"
+      }
+    ]
+  },
+  "18.jpg": {
+    "receipt_category": "Groceries",
+    "item_categories": [
+      {
+        "description": "GV WATER",
+        "category": "Bottled water"
+      },
+      {
+        "description": "GREAT VALUE",
+        "category": "Pantry item"
+      },
+      {
+        "description": "GREAT VALUE",
+        "category": "Pantry item"
+      },
+      {
+        "description": "GAIN LFE",
+        "category": "Coffee or energy drink"
+      },
+      {
+        "description": "003700077007",
+        "category": "Canned goods"
+      },
+      {
+        "description": "00003700076954",
+        "category": "Bread or baked goods"
+      },
+      {
+        "description": "GV VEG OIL007874221000 F",
+        "category": "Cooking oil"
+      },
+      {
+        "description": "SNICKER FS004000050533 F",
+        "category": "Snack"
+      },
+      {
+        "description": "GDBR FS 6PK 003400029305 F",
+        "category": "Beverage"
+      },
+      {
+        "description": "MIXED CHOC004000047587 F",
+        "category": "Chocolate"
+      },
+      {
+        "description": "CHERRIES 004326880002 F",
+        "category": "Fresh fruit"
+      },
+      {
+        "description": "GAIN",
+        "category": "Coffee or energy drink"
+      },
+      {
+        "description": "HY RSTLEG PM 035497333521H",
+        "category": "Beverage"
+      },
+      {
+        "description": "BATTERIES",
+        "category": "Household supplies"
+      },
+      {
+        "description": "GV 2OZ MINI 007874219999",
+        "category": "Pantry item"
+      }
+    ]
+  },
+  "19.jpg": {
+    "receipt_category": "Groceries",
+    "item_categories": [
+      {
+        "description": "GRILL COVER 471288396027",
+        "category": "Household Supplies"
+      },
+      {
+        "description": "FIBER CHOICE 036926600094",
+        "category": "Food & Drinks"
+      },
+      {
+        "description": "lb 1 lb /1.44",
+        "category": "Groceries"
+      }
+    ]
+  },
+  "2.jpg": {
+    "receipt_category": "General Shopping",
+    "item_categories": [
+      {
+        "description": "OT 200Z TUM 081236803115",
+        "category": "Electronics accessory"
+      },
+      {
+        "description": "M ATHLETICS 019104567781",
+        "category": "Clothing & Apparel"
+      },
+      {
+        "description": "DEXAS 15X20 008429710921",
+        "category": "Home Improvement & Tools"
+      }
+    ]
+  },
+  "3.jpg": {
+    "receipt_category": "Groceries",
+    "item_categories": [
+      {
+        "description": "SNACK BARS 002190848816",
+        "category": "Snack"
+      },
+      {
+        "description": "HRI CL CHS 003120506000 F",
+        "category": "Bakery"
+      },
+      {
+        "description": "HRI 12 USG 003120535000 F",
+        "category": "Household Supplies"
+      },
+      {
+        "description": "EARBUDS068113100946",
+        "category": "Electronics accessory"
+      },
+      {
+        "description": "DV RSE OIL M 001111101220",
+        "category": "Food & Drinks"
+      },
+      {
+        "description": "APPLE 3 BAG 084747300184 F",
+        "category": "Fresh produce"
+      },
+      {
+        "description": "STOK LT SWT 004127102774 F",
+        "category": "Household Supplies"
+      },
+      {
+        "description": "AVO VERDE061611206143 F",
+        "category": "Dairy"
+      },
+      {
+        "description": "BTS DRY BLON 501072452746",
+        "category": "Snack"
+      },
+      {
+        "description": "GALE000000000003K",
+        "category": "Household Supplies"
+      },
+      {
+        "description": "TR HS FRM 4 002240062190",
+        "category": "Food & Drinks"
+      },
+      {
+        "description": "GV SLIDERS007874201525",
+        "category": "Snack"
+      },
+      {
+        "description": "ACCESSORY007515161216",
+        "category": "Electronics accessory"
+      },
+      {
+        "description": "RITZ004400088210 F",
+        "category": "Snack"
+      },
+      {
+        "description": "RUFFLES002840020942 F",
+        "category": "Snack"
+      },
+      {
+        "description": "GV HNY GRMS 007874207253 F",
+        "category": "Food & Drinks"
+      }
+    ]
+  },
+  "4.jpg": {
+    "receipt_category": "Groceries",
+    "item_categories": [
+      {
+        "description": "SW HRO FGHTR 063050940732",
+        "category": "Unknown grocery item"
+      }
+    ]
+  },
+  "5.jpg": {
+    "receipt_category": "Groceries",
+    "item_categories": [
+      {
+        "description": "KTTL SEA SALT POT CHP",
+        "category": "Spices & Seasonings"
+      },
+      {
+        "description": "BRAIDED BRIOCHE",
+        "category": "Bakery"
+      },
+      {
+        "description": "ea",
+        "category": "Unknown/Invalid Item"
+      }
+    ]
+  },
+  "6.JPG": {
+    "receipt_category": "Food & Drinks",
+    "item_categories": [
+      {
+        "description": "Ham Cheese",
+        "category": "Dairy"
+      },
+      {
+        "description": "Ice Java Tea",
+        "category": "Soft drink"
+      },
+      {
+        "description": "Mineral Water",
+        "category": "Beverage"
+      },
+      {
+        "description": "Black & White",
+        "category": "Coffee"
+      }
+    ]
+  },
+  "7.jpg": {
+    "receipt_category": "Groceries",
+    "item_categories": [
+      {
+        "description": "WING PLATE 020108870398",
+        "category": "Meat"
+      },
+      {
+        "description": "ASST 27 063099656595",
+        "category": "Snack"
+      },
+      {
+        "description": "CUTIE CAR063099656644",
+        "category": "Bakery"
+      }
+    ]
+  },
+  "8.jpg": {
+    "receipt_category": "Groceries",
+    "item_categories": []
+  },
+  "9.jpg": {
+    "receipt_category": "Groceries",
+    "item_categories": []
+  }
+}
